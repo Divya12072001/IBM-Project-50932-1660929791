@@ -56,7 +56,7 @@ Configuration OS : Windows/Linux/MAC
 
 
 # **🎯Skills Required:**        
-IBM Cloud,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
+IBM Cloud, Python, IBM Watson IoT Platform, Node-RED service, Cloudant DB.
 
 
 # **Project Working Video Link**          
