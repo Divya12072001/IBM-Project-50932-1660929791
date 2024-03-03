@@ -59,7 +59,7 @@ Configuration OS : Windows/Linux/MAC
 IBM Cloud, Python, IBM Watson IoT Platform, Node-RED service, Cloudant DB.
 
 
-# **Project Working Video Link**          
+# **Project Video Link**          
   
 https://drive.google.com/file/d/1HQmS2W_eU6C2NeLBzqMPOH5eao8OKqnv/view?usp=drive_link
 
