@@ -1,12 +1,17 @@
 
                    
-# IBM-Project-50932-1660929791
-</div> 
+ # IBM-Project-50932-1660929791
+   </div> 
   
   <div align="center">
   
  # **Smart Waste Management System For Metropolitan Cities**      
    </div> 
+
+   <div align="center">
+
+ # https://github.com/Divya12072001/IBM-Project-50932-1660929791
+   
 
 TECHNOLOGY : IOT        
 TEAM ID : PNT2022TMID50932  
