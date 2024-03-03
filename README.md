@@ -18,7 +18,7 @@ TECHNOLOGY : IOT
 TEAM ID : PNT2022TMID50932  
 
 
-# **👩‍👦Contibutors 4**
+# **👩‍👦Contributors 4**
 Divya12072001
 </div>
 Sakthi-2910  </div>
