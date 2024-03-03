@@ -37,7 +37,7 @@ JENIFER PRIYA P
 SAKTHI P        
 ```          
 
-# **📜PROJECT DESCRIPTION:**          
+# **📜PROJECT DESCRIPTION**          
 Garbage level detection in bins.     
 Getting the weight of the garbage in the bin.      
 Alerts the authorized person to empty the bin whenever the bins are full.     
